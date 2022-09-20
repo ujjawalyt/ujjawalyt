@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ujjawalyt.github.io/](https://ujjawalyt.github.io/)
 
-- 💬 Ask me about **Java ,SQl, SpringBoot**
+- 💬 Ask me about **Java ,SQL, SpringBoot**
 
 - 📫 How to reach me **ujjawalyt@gmail.com**
 
