@@ -7,7 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Java SpringBoot SQl**
+- 🌱 I’m currently learning **Java SpringBoot SQL**
 
 - 👨‍💻 All of my projects are available at [https://ujjawalyt.github.io/](https://ujjawalyt.github.io/)
 
