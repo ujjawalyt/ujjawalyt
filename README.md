@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Prakash</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+<img src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalyt&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawalyt" alt="ujjawalyt" /></a> </p>
