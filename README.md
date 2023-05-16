@@ -43,3 +43,9 @@
 <a href="http://www.github.com/ujjawalyt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ujjawalyt&bg_color=0f172a&color=facc15&line=ec4899&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ujjawalyt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalyt&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjawalyt&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawalyt&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjawalyt&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjawalyt&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ujjawalyt&theme=solarized_dark)
