@@ -9,11 +9,11 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Java SpringBoot SQL**
+- 🌱 I’m currently learning **Java SpringBoot MYSQL MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://ujjawalyt.github.io/](https://ujjawalyt.github.io/)
 
-- 💬 Ask me about **Java ,SQL, SpringBoot**
+- 💬 Ask me about **Java ,SQL, SpringBoot MongoDB**
 
 - 📫 How to reach me **ujjawalyt@gmail.com**
 
