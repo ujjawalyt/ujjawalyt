@@ -26,9 +26,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawalyt&show_icons=true&locale=en&layout=compact" alt="ujjawalyt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjawalyt&show_icons=true&locale=en" alt="ujjawalyt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalyt&" alt="ujjawalyt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalyt&" alt="ujjawalyt" /></p> -->
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ujjawalyt"><img src="https://github-readme-stats.vercel.app/api?username=ujjawalyt&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="ujjawalyt's GitHub stats" /></a>
+
+<a href="http://www.github.com/ujjawalyt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalyt&stroke=facc15&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+<a href="http://www.github.com/ujjawalyt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ujjawalyt&bg_color=0f172a&color=facc15&line=ec4899&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/ujjawalyt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalyt&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
